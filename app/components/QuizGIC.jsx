@@ -1,3 +1,4 @@
+"use client"
 
 // Quiz GIC con animaciones visuales y estilo mejorado
 import { useState } from 'react';
